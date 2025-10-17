@@ -3,9 +3,9 @@
 Say you gave me a recipe made from ripping a few pages out of a cookbook (like a ransom note lol), and asked me to predict how long it'd take to make. It might be a second or a century. So I'd need to look back at other recipes I'd seen, how long specific steps within them took, finding similarities to the steps in your recipe. I tried to do that, but for chemical reactions.
 
 ### Problem Statement
-- The Arrhenius rate constant equation ( k = A * exp( - E_a/ RT ) ) contains 2 parameters that specify how quickly a reaction progresses: activation energy (threshold, in Joules, for reaction to occur), and the pre-exponential factor (frequency of, and likelihood of correct orientation of, collision)
-- I'm trying to decompose organic reactions into the likely mechanistic pathways (steps) taken to go from reactants to products; essentially trying to figure out the black box of chemical reactions, as predicting reaction mechanisms is an extremely difficult task
-- I hope to leverage this to predict the 2 parameters above
+   The Arrhenius rate constant equation ( k = A * exp( - E_a/ RT ) ) contains 2 parameters that specify how quickly a reaction progresses: activation energy (threshold, in Joules, for reaction to occur), and the pre-exponential factor (frequency of, and likelihood of correct orientation of, collision)
+   I'm trying to decompose organic reactions into the likely mechanistic pathways (steps) taken to go from reactants to products; essentially trying to figure out the black box of chemical reactions, as predicting reaction mechanisms is an extremely difficult task
+   I hope to leverage this to predict the 2 parameters above
 
 ### Relevant Background
 
