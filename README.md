@@ -6,4 +6,4 @@ Trained a language model to decompose 'black-box' organic chemical reactions int
 
 Trained a Random Forest model with scikit-learn to classify single-step reaction types by encoding 'reaction changes' as a 4096-bit vector.
 
-![Morgan Fingerprint Bit Vector](Morgan Fingerprint.png)
+![Morgan Fingerprint Bit Vector]('Morgan Fingerprint.png')
